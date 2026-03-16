@@ -1,5 +1,9 @@
 # matrix-py
-Matrix ops: multiply, transpose, determinant, inverse, LU decomposition. Zero dependencies.
-```
-python3 matrix-py.py --test
+Matrix Library - operations, decomposition, inverse, determinant
+
+Zero-dependency Python CLI tool.
+
+## Usage
+```bash
+python3 matrix.py
 ```
